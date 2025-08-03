@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+    background-color: aliceblue;
+    color: black;
+    line-height: 1.6;
+}
+header{
+    background-color: rgb(137, 137, 198);
+    color: aliceblue;
+    padding: 1rem;
+    text-align: center;
+}
+header h1{
+    margin: 0%;
+    font-size: 3rem;
+}
+nav{
+    margin-top:1rem ;
+}
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 0.5rem 1rem;
+    background-color: #357A;
+}
+main{
+    padding: 1rem;
+    nax-width: 800rem;
+
+}
+h3{
+    color: blueviolet;
+    
+}
+footer{
+    text-align: center;
+    padding: 1rem;
+    background-color: blueviolet;
+    color: beige;
+    width: 100%;
+}
